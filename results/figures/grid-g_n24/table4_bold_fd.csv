@@ -1,0 +1,13 @@
+Comparison,Measure,Context,N1,N2,Unit,Mean diff (mm),Statistic,p-value
+Psilocybin vs Placebo,meanFD,Before,12,12,participants,0.0429,82.0,0.5834
+Psilocybin vs Placebo,maxFD,Before,12,12,participants,0.0565,84.0,0.5067
+Psilocybin vs Placebo,meanFD,After,12,12,participants,0.0013,69.0,0.8852
+Psilocybin vs Placebo,maxFD,After,12,12,participants,-0.0501,65.0,0.7075
+Psilocybin: Before vs After,meanFD,Paired,12,12,participants,0.0091,25.0,0.3013
+Psilocybin: Before vs After,maxFD,Paired,12,12,participants,0.0281,30.0,0.5186
+Placebo: Before vs After,meanFD,Paired,12,12,participants,-0.0325,18.0,0.1099
+Placebo: Before vs After,maxFD,Paired,12,12,participants,-0.0785,12.0,0.0342
+GE Discovery vs GE Signa,meanFD,Psilocybin,9,3,participants,0.0897,20.0,0.2818
+GE Discovery vs GE Signa,maxFD,Psilocybin,9,3,participants,0.1146,19.0,0.3727
+GE Discovery vs GE Signa,meanFD,Placebo,8,4,participants,0.0416,22.0,0.3677
+GE Discovery vs GE Signa,maxFD,Placebo,8,4,participants,0.0513,22.0,0.3677

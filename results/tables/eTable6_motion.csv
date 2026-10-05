@@ -1,0 +1,17 @@
+Group,Motion,Target,n,rho,95% CI,p,p_fdr
+Psilocybin,Δ mean FD,ΔDirectedness,12,0.2,[-0.42  0.7 ],.53,.95
+Psilocybin,Δ mean FD,"ρ(ΔHL, FC gradient)",12,-0.02,[-0.59  0.56],.95,.97
+Psilocybin,Δ mean FD,MADRS change,12,-0.32,[-0.76  0.31],.31,.95
+Psilocybin,Δ mean FD,MADRS % change,12,-0.17,[-0.68  0.45],.60,.95
+Psilocybin,Δ maximum FD,ΔDirectedness,12,0.22,[-0.4   0.71],.48,.95
+Psilocybin,Δ maximum FD,"ρ(ΔHL, FC gradient)",12,0.36,[-0.27  0.77],.26,.95
+Psilocybin,Δ maximum FD,MADRS change,12,-0.36,[-0.77  0.27],.25,.95
+Psilocybin,Δ maximum FD,MADRS % change,12,-0.27,[-0.73  0.36],.40,.95
+Placebo,Δ mean FD,ΔDirectedness,12,0.08,[-0.51  0.63],.80,.95
+Placebo,Δ mean FD,"ρ(ΔHL, FC gradient)",12,-0.13,[-0.65  0.48],.70,.95
+Placebo,Δ mean FD,MADRS change,12,0.11,[-0.5   0.64],.74,.95
+Placebo,Δ mean FD,MADRS % change,12,0.2,[-0.42  0.7 ],.53,.95
+Placebo,Δ maximum FD,ΔDirectedness,12,0.27,[-0.36  0.73],.40,.95
+Placebo,Δ maximum FD,"ρ(ΔHL, FC gradient)",12,-0.01,[-0.58  0.56],.97,.97
+Placebo,Δ maximum FD,MADRS change,12,-0.09,[-0.63  0.51],.79,.95
+Placebo,Δ maximum FD,MADRS % change,12,0.07,[-0.53  0.62],.83,.95

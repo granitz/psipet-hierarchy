@@ -1,0 +1,5 @@
+Group,Session,n,r,p_spin,p_fdr
+Psilocybin,Before,12,0.252,0.32967032967032966,0.44
+Psilocybin,After,12,0.099,0.7362637362637363,0.736
+Placebo,Before,12,0.357,0.13186813186813187,0.272
+Placebo,After,12,0.336,0.13586413586413587,0.272

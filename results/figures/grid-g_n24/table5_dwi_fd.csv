@@ -1,0 +1,9 @@
+Comparison,Measure,Context,N,Mean diff (mm),Statistic,p-value,p (FDR)
+Psilocybin vs Placebo,meanFD,Before,12 vs 12,0.0299,90.0,0.3123,1.0
+Psilocybin vs Placebo,maxFD,Before,12 vs 12,0.0974,76.0,0.8399,1.0
+Psilocybin vs Placebo,meanFD,After,9 vs 8,0.0171,42.0,0.6058,1.0
+Psilocybin vs Placebo,maxFD,After,9 vs 8,-0.1689,30.0,0.6058,1.0
+Psilocybin: Before vs After,meanFD,Paired,9 pairs,-0.0135,22.0,1.0,1.0
+Psilocybin: Before vs After,maxFD,Paired,9 pairs,0.2912,22.0,1.0,1.0
+Placebo: Before vs After,meanFD,Paired,8 pairs,-0.0023,17.0,0.9453,1.0
+Placebo: Before vs After,maxFD,Paired,8 pairs,0.1029,16.0,0.8438,1.0

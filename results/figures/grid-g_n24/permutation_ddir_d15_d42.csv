@@ -1,0 +1,5 @@
+Timepoint,Clinical measure,n,observed difference,P (permutation)
+Dag 15,ΔMADRS,11,-0.36149930978567213,0.6367
+Dag 15,MADRS % change,11,0.08571428571428573,0.9001
+Dag 42,ΔMADRS,24,-0.9435495503869538,0.0079
+Dag 42,MADRS % change,24,-0.910968913134163,0.0111
