@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+nibabel
+pingouin
+statsmodels
+seaborn
+matplotlib
+neuromaps
+netneurotools
+surfplot
+# subcortical rendering (cell 26), install from source:
+#   pip install git+https://github.com/yetianmed/subcortex.git

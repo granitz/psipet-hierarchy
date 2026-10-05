@@ -1,0 +1,35 @@
+# Model outputs and any other MATLAB data -- available on request, see README
+*.mat
+
+# Participant identifiers
+PSIPET-ID_*
+
+# Superseded material
+ARCHIVE/
+*.bak
+*.bak2.ipynb
+
+# Local configuration
+config_local.py
+
+# Notebook and Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and scheduler output
+logs/
+slurm/
+*.log
+*.out
+*.err
+
+# Per-participant derived data (dates, IDs) -- never commit
+*per_participant*
+
