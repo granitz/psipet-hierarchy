@@ -1,0 +1,3 @@
+Timepoint,Clinical measure,n,observed difference,P (permutation)
+MADRS-S scan day,ΔMADRS-S,22,-0.9495818132912217,0.0611
+MADRS-S scan day,MADRS-S % change,22,-0.829645815056258,0.0742
