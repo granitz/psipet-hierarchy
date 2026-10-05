@@ -50,6 +50,7 @@ ATLAS_DLABEL   = str(_ATLAS / "schaefertian100" /
                      "Schaefer2018_100Parcels_7Networks_order_Tian_Subcortex_S1.dlabel.nii")
 PET_TO_MR_XLSX = str(ROOT / "PSIPET PET to MR mapping.xlsx")
 MADRS_XLSX     = str(_DATA / "BEH" / "MADRS_treatment.xlsx")
+MADRSS_XLSX    = str(_DATA / "BEH" / "MADRSS.xlsx")       # self-rated, daily
 MOTION_DIR     = f"{_DATA / 'MOTION'}/"
 TS_DIR         = f"{ROOT / 'ts'}/"
 JSON_DIR       = str(_DATA / "JSON-files")
