@@ -1,7 +1,8 @@
 # psipet-hierarchy
 
-Analysis code for *Psilocybin-Induced Hierarchical Reorganization in Major
-Depression: A Secondary Analysis of a Randomized Clinical Trial*.
+Analysis code for *Directed Brain Hierarchy and Symptom Improvement After
+Psilocybin in Major Depression: A Secondary Analysis of a Randomized Clinical
+Trial*.
 
 Resting-state fMRI and diffusion MRI were acquired before and a median of two
 days after a single 25 mg dose of psilocybin or 100 mg niacin (active placebo)
