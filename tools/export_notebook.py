@@ -81,6 +81,7 @@ def main():
 
             new = ID.sub(sub, text)
             new = re.sub(r'/Users/[^/\s]+', '~', new)      # no usernames/paths in outputs
+            new = re.sub(r'/Volumes/[^\n"]+', '<local path>', new)  # external-drive paths
             if k is None:
                 o[key] = new.splitlines(keepends=True)
             else:
